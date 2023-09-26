@@ -16,7 +16,7 @@ https://www.udemy.com/course/php-ile-nesneye-yonelik-programlama/?referralCode=3
 
 ✅ Laravel'de Hata Sayfalarını Özelleştirme | 403, 404 ve 500 Sayfasını Özelleştirme 
 
-#php #oop
+#laravel
 
 Web: https://www.erbayat.com
 
